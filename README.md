@@ -9,6 +9,7 @@
 | [0118-pascals-triangle](https://github.com/Shreyash-badole17/leet-submission/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Shreyash-badole17/leet-submission/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/Shreyash-badole17/leet-submission/tree/master/0485-max-consecutive-ones) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Shreyash-badole17/leet-submission/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -32,4 +33,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shreyash-badole17/leet-submission/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Shreyash-badole17/leet-submission/tree/master/2271-rearrange-array-elements-by-sign) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Shreyash-badole17/leet-submission/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
