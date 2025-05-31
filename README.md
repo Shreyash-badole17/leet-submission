@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shreyash-badole17/leet-submission/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/Shreyash-badole17/leet-submission/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Shreyash-badole17/leet-submission/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Shreyash-badole17/leet-submission/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shreyash-badole17/leet-submission/tree/master/0054-spiral-matrix) |
@@ -32,6 +33,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Shreyash-badole17/leet-submission/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Shreyash-badole17/leet-submission/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -40,6 +42,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Shreyash-badole17/leet-submission/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Shreyash-badole17/leet-submission/tree/master/0031-next-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shreyash-badole17/leet-submission/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
