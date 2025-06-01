@@ -15,6 +15,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Shreyash-badole17/leet-submission/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shreyash-badole17/leet-submission/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/Shreyash-badole17/leet-submission/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/Shreyash-badole17/leet-submission/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shreyash-badole17/leet-submission/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
@@ -63,4 +64,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shreyash-badole17/leet-submission/tree/master/0054-spiral-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Shreyash-badole17/leet-submission/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
