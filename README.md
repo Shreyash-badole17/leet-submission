@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Shreyash-badole17/leet-submission/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Shreyash-badole17/leet-submission/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Shreyash-badole17/leet-submission/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Shreyash-badole17/leet-submission/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Shreyash-badole17/leet-submission/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shreyash-badole17/leet-submission/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Shreyash-badole17/leet-submission/tree/master/0056-merge-intervals) |
@@ -67,5 +68,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Shreyash-badole17/leet-submission/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/Shreyash-badole17/leet-submission/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
