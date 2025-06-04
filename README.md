@@ -23,6 +23,7 @@
 | [0485-max-consecutive-ones](https://github.com/Shreyash-badole17/leet-submission/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreyash-badole17/leet-submission/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Shreyash-badole17/leet-submission/tree/master/0792-binary-search) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Shreyash-badole17/leet-submission/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shreyash-badole17/leet-submission/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shreyash-badole17/leet-submission/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -83,5 +84,6 @@
 | [0162-find-peak-element](https://github.com/Shreyash-badole17/leet-submission/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreyash-badole17/leet-submission/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Shreyash-badole17/leet-submission/tree/master/0792-binary-search) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Shreyash-badole17/leet-submission/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shreyash-badole17/leet-submission/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 <!---LeetCode Topics End-->
