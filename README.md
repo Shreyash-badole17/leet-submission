@@ -50,6 +50,7 @@
 | [0001-two-sum](https://github.com/Shreyash-badole17/leet-submission/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Shreyash-badole17/leet-submission/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shreyash-badole17/leet-submission/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Shreyash-badole17/leet-submission/tree/master/0205-isomorphic-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Shreyash-badole17/leet-submission/tree/master/0205-isomorphic-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/Shreyash-badole17/leet-submission/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Shreyash-badole17/leet-submission/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
