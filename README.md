@@ -51,6 +51,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Shreyash-badole17/leet-submission/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shreyash-badole17/leet-submission/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Shreyash-badole17/leet-submission/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Shreyash-badole17/leet-submission/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0056-merge-intervals](https://github.com/Shreyash-badole17/leet-submission/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Shreyash-badole17/leet-submission/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shreyash-badole17/leet-submission/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Shreyash-badole17/leet-submission/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Shreyash-badole17/leet-submission/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Shreyash-badole17/leet-submission/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/Shreyash-badole17/leet-submission/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Shreyash-badole17/leet-submission/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Shreyash-badole17/leet-submission/tree/master/2032-largest-odd-number-in-string) |
