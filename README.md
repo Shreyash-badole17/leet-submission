@@ -41,6 +41,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shreyash-badole17/leet-submission/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Shreyash-badole17/leet-submission/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Shreyash-badole17/leet-submission/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/Shreyash-badole17/leet-submission/tree/master/0410-split-array-largest-sum) |
@@ -71,6 +72,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shreyash-badole17/leet-submission/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/Shreyash-badole17/leet-submission/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Shreyash-badole17/leet-submission/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Shreyash-badole17/leet-submission/tree/master/0088-merge-sorted-array) |
@@ -121,6 +123,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shreyash-badole17/leet-submission/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Shreyash-badole17/leet-submission/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Shreyash-badole17/leet-submission/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Shreyash-badole17/leet-submission/tree/master/0205-isomorphic-strings) |
