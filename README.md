@@ -158,4 +158,12 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Shreyash-badole17/leet-submission/tree/master/0451-sort-characters-by-frequency) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Shreyash-badole17/leet-submission/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Shreyash-badole17/leet-submission/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
