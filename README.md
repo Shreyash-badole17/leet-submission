@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shreyash-badole17/leet-submission/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Shreyash-badole17/leet-submission/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Shreyash-badole17/leet-submission/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Shreyash-badole17/leet-submission/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/Shreyash-badole17/leet-submission/tree/master/0410-split-array-largest-sum) |
@@ -142,6 +143,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Shreyash-badole17/leet-submission/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Shreyash-badole17/leet-submission/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Shreyash-badole17/leet-submission/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/Shreyash-badole17/leet-submission/tree/master/0022-generate-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Shreyash-badole17/leet-submission/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shreyash-badole17/leet-submission/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Shreyash-badole17/leet-submission/tree/master/0451-sort-characters-by-frequency) |
@@ -205,4 +207,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Shreyash-badole17/leet-submission/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Shreyash-badole17/leet-submission/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
