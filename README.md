@@ -160,6 +160,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shreyash-badole17/leet-submission/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Shreyash-badole17/leet-submission/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Shreyash-badole17/leet-submission/tree/master/0050-powx-n) |
 | [2032-largest-odd-number-in-string](https://github.com/Shreyash-badole17/leet-submission/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
 |  |
@@ -196,6 +197,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shreyash-badole17/leet-submission/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shreyash-badole17/leet-submission/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Shreyash-badole17/leet-submission/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Shreyash-badole17/leet-submission/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
 |  |
