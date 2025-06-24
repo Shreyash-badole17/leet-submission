@@ -23,6 +23,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shreyash-badole17/leet-submission/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shreyash-badole17/leet-submission/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Shreyash-badole17/leet-submission/tree/master/0169-majority-element) |
+| [0216-combination-sum-iii](https://github.com/Shreyash-badole17/leet-submission/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreyash-badole17/leet-submission/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Shreyash-badole17/leet-submission/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Shreyash-badole17/leet-submission/tree/master/0485-max-consecutive-ones) |
@@ -213,6 +214,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shreyash-badole17/leet-submission/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Shreyash-badole17/leet-submission/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/Shreyash-badole17/leet-submission/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
