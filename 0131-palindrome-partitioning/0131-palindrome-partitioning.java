@@ -1,38 +1,42 @@
-import java.util.*;
-
-public class Solution {
+class Solution {
     public List<List<String>> partition(String s) {
-        int n = s.length();
-        // 1. Precompute palindrome table
-        boolean[][] isPal = new boolean[n][n];
-        for (int end = 0; end < n; end++) {
-            for (int start = 0; start <= end; start++) {
-                if (s.charAt(start) == s.charAt(end) 
-                    && (end - start < 2 || isPal[start + 1][end - 1])) {
-                    isPal[start][end] = true;
-                }
-            }
-        }
-
         List<List<String>> result = new ArrayList<>();
-        Deque<String> path = new ArrayDeque<>();
-        backtrack(s, 0, isPal, path, result);
+
+        DFS(0, s, new ArrayList<>(), result);
+
         return result;
     }
 
-    private void backtrack(String s, int start, boolean[][] isPal,
-                           Deque<String> path, List<List<String>> result) {
-        int n = s.length();
-        if (start == n) {
-            result.add(new ArrayList<>(path));
+    private void DFS(int idx, String s, List<String> list, List<List<String>> result) {
+        if(idx == s.length()) {
+            result.add(new ArrayList<>(list));
             return;
         }
-        for (int end = start; end < n; end++) {
-            if (!isPal[start][end]) continue;
-            // choose substring s[start..end]
-            path.addLast(s.substring(start, end + 1));
-            backtrack(s, end + 1, isPal, path, result);
-            path.removeLast();
+
+        for(int i=idx; i<s.length(); i++) {
+            String str = s.substring(idx, i+1);
+
+            if(isPalindrome(str)) {
+                list.add(str);
+                DFS(i + 1, s, list, result);
+                list.remove(list.size() - 1);
+            }
         }
+    }
+
+    private boolean isPalindrome(String str) {
+        int i = 0;
+        int j = str.length() - 1;
+        
+        while( i < j) {
+            if(str.charAt(i) != str.charAt(j)) {
+                return false;
+            }
+
+            i++;
+            j--;
+        }
+
+        return true;
     }
 }
