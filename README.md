@@ -16,6 +16,7 @@
 | [0056-merge-intervals](https://github.com/Shreyash-badole17/leet-submission/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Shreyash-badole17/leet-submission/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Shreyash-badole17/leet-submission/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Shreyash-badole17/leet-submission/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shreyash-badole17/leet-submission/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shreyash-badole17/leet-submission/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Shreyash-badole17/leet-submission/tree/master/0118-pascals-triangle) |
@@ -112,6 +113,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shreyash-badole17/leet-submission/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Shreyash-badole17/leet-submission/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Shreyash-badole17/leet-submission/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreyash-badole17/leet-submission/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/Shreyash-badole17/leet-submission/tree/master/2047-find-a-peak-element-ii) |
 ## Binary Search
@@ -149,6 +151,7 @@
 | [0013-roman-to-integer](https://github.com/Shreyash-badole17/leet-submission/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shreyash-badole17/leet-submission/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Shreyash-badole17/leet-submission/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Shreyash-badole17/leet-submission/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Shreyash-badole17/leet-submission/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/Shreyash-badole17/leet-submission/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shreyash-badole17/leet-submission/tree/master/0242-valid-anagram) |
@@ -219,10 +222,15 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shreyash-badole17/leet-submission/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Shreyash-badole17/leet-submission/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Shreyash-badole17/leet-submission/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Shreyash-badole17/leet-submission/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Shreyash-badole17/leet-submission/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Shreyash-badole17/leet-submission/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Shreyash-badole17/leet-submission/tree/master/0078-subsets) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Shreyash-badole17/leet-submission/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
