@@ -22,6 +22,7 @@
 | [0088-merge-sorted-array](https://github.com/Shreyash-badole17/leet-submission/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Shreyash-badole17/leet-submission/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Shreyash-badole17/leet-submission/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Shreyash-badole17/leet-submission/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shreyash-badole17/leet-submission/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shreyash-badole17/leet-submission/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Shreyash-badole17/leet-submission/tree/master/0169-majority-element) |
@@ -51,6 +52,7 @@
 | [0053-maximum-subarray](https://github.com/Shreyash-badole17/leet-submission/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Shreyash-badole17/leet-submission/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Shreyash-badole17/leet-submission/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Shreyash-badole17/leet-submission/tree/master/0139-word-break) |
 | [0410-split-array-largest-sum](https://github.com/Shreyash-badole17/leet-submission/tree/master/0410-split-array-largest-sum) |
 ## Hash Table
 |  |
@@ -60,6 +62,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shreyash-badole17/leet-submission/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/Shreyash-badole17/leet-submission/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shreyash-badole17/leet-submission/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Shreyash-badole17/leet-submission/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Shreyash-badole17/leet-submission/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shreyash-badole17/leet-submission/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shreyash-badole17/leet-submission/tree/master/0160-intersection-of-two-linked-lists) |
@@ -154,6 +157,7 @@
 | [0022-generate-parentheses](https://github.com/Shreyash-badole17/leet-submission/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Shreyash-badole17/leet-submission/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Shreyash-badole17/leet-submission/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Shreyash-badole17/leet-submission/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Shreyash-badole17/leet-submission/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shreyash-badole17/leet-submission/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Shreyash-badole17/leet-submission/tree/master/0451-sort-characters-by-frequency) |
@@ -235,4 +239,12 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shreyash-badole17/leet-submission/tree/master/0079-word-search) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Shreyash-badole17/leet-submission/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Shreyash-badole17/leet-submission/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
