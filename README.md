@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Shreyash-badole17/leet-submission/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shreyash-badole17/leet-submission/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shreyash-badole17/leet-submission/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Shreyash-badole17/leet-submission/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Shreyash-badole17/leet-submission/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Shreyash-badole17/leet-submission/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shreyash-badole17/leet-submission/tree/master/0054-spiral-matrix) |
@@ -60,6 +61,7 @@
 | [0001-two-sum](https://github.com/Shreyash-badole17/leet-submission/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Shreyash-badole17/leet-submission/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shreyash-badole17/leet-submission/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Shreyash-badole17/leet-submission/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/Shreyash-badole17/leet-submission/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shreyash-badole17/leet-submission/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Shreyash-badole17/leet-submission/tree/master/0139-word-break) |
@@ -115,6 +117,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Shreyash-badole17/leet-submission/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Shreyash-badole17/leet-submission/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Shreyash-badole17/leet-submission/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Shreyash-badole17/leet-submission/tree/master/0079-word-search) |
@@ -226,6 +229,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shreyash-badole17/leet-submission/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Shreyash-badole17/leet-submission/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Shreyash-badole17/leet-submission/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Shreyash-badole17/leet-submission/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Shreyash-badole17/leet-submission/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Shreyash-badole17/leet-submission/tree/master/0079-word-search) |
