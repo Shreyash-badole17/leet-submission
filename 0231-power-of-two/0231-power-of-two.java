@@ -1,15 +1,6 @@
 class Solution {
     public boolean isPowerOfTwo(int n) {
-        int count=0;
-        while(n>0){
-            if((n&1)%2==1){
-                count++;
-            }
-            n=n>>1;
-        }
-        if(count==1){
-            return true;
-        }
-        return false;
+        // must be positive, and n&(n-1) clears the lowest set bit
+        return n > 0 && (n & (n - 1)) == 0;
     }
 }
