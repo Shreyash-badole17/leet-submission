@@ -28,6 +28,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shreyash-badole17/leet-submission/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shreyash-badole17/leet-submission/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Shreyash-badole17/leet-submission/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Shreyash-badole17/leet-submission/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Shreyash-badole17/leet-submission/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreyash-badole17/leet-submission/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Shreyash-badole17/leet-submission/tree/master/0410-split-array-largest-sum) |
@@ -182,6 +183,7 @@
 | [0013-roman-to-integer](https://github.com/Shreyash-badole17/leet-submission/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Shreyash-badole17/leet-submission/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Shreyash-badole17/leet-submission/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/Shreyash-badole17/leet-submission/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Shreyash-badole17/leet-submission/tree/master/0231-power-of-two) |
 | [2032-largest-odd-number-in-string](https://github.com/Shreyash-badole17/leet-submission/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Shreyash-badole17/leet-submission/tree/master/2050-count-good-numbers) |
@@ -259,4 +261,12 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Shreyash-badole17/leet-submission/tree/master/0139-word-break) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shreyash-badole17/leet-submission/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shreyash-badole17/leet-submission/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
