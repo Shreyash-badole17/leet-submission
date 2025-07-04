@@ -23,6 +23,7 @@
 | [0088-merge-sorted-array](https://github.com/Shreyash-badole17/leet-submission/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Shreyash-badole17/leet-submission/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Shreyash-badole17/leet-submission/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Shreyash-badole17/leet-submission/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Shreyash-badole17/leet-submission/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shreyash-badole17/leet-submission/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shreyash-badole17/leet-submission/tree/master/0162-find-peak-element) |
@@ -243,6 +244,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shreyash-badole17/leet-submission/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Shreyash-badole17/leet-submission/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Shreyash-badole17/leet-submission/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Shreyash-badole17/leet-submission/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Shreyash-badole17/leet-submission/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Depth-First Search
