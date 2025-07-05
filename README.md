@@ -159,6 +159,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Shreyash-badole17/leet-submission/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Shreyash-badole17/leet-submission/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shreyash-badole17/leet-submission/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Shreyash-badole17/leet-submission/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shreyash-badole17/leet-submission/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Shreyash-badole17/leet-submission/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Shreyash-badole17/leet-submission/tree/master/0131-palindrome-partitioning) |
@@ -174,6 +175,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shreyash-badole17/leet-submission/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Shreyash-badole17/leet-submission/tree/master/0225-implement-stack-using-queues) |
 | [1078-remove-outermost-parentheses](https://github.com/Shreyash-badole17/leet-submission/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Shreyash-badole17/leet-submission/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
