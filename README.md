@@ -36,6 +36,7 @@
 | [0485-max-consecutive-ones](https://github.com/Shreyash-badole17/leet-submission/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Shreyash-badole17/leet-submission/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreyash-badole17/leet-submission/tree/master/0540-single-element-in-a-sorted-array) |
+| [0735-asteroid-collision](https://github.com/Shreyash-badole17/leet-submission/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Shreyash-badole17/leet-submission/tree/master/0792-binary-search) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Shreyash-badole17/leet-submission/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shreyash-badole17/leet-submission/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -116,6 +117,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shreyash-badole17/leet-submission/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/Shreyash-badole17/leet-submission/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shreyash-badole17/leet-submission/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
@@ -184,6 +186,7 @@
 | [0042-trapping-rain-water](https://github.com/Shreyash-badole17/leet-submission/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Shreyash-badole17/leet-submission/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Shreyash-badole17/leet-submission/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Shreyash-badole17/leet-submission/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/Shreyash-badole17/leet-submission/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Shreyash-badole17/leet-submission/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Math
