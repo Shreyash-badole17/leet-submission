@@ -42,6 +42,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shreyash-badole17/leet-submission/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/Shreyash-badole17/leet-submission/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shreyash-badole17/leet-submission/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Shreyash-badole17/leet-submission/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0169-majority-element](https://github.com/Shreyash-badole17/leet-submission/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shreyash-badole17/leet-submission/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Shreyash-badole17/leet-submission/tree/master/0451-sort-characters-by-frequency) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Shreyash-badole17/leet-submission/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Counting
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/Shreyash-badole17/leet-submission/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Shreyash-badole17/leet-submission/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shreyash-badole17/leet-submission/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Shreyash-badole17/leet-submission/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Simulation
 |  |
 | ------- |
@@ -155,6 +158,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Shreyash-badole17/leet-submission/tree/master/0410-split-array-largest-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/Shreyash-badole17/leet-submission/tree/master/2032-largest-odd-number-in-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Shreyash-badole17/leet-submission/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Prefix Sum
 |  |
 | ------- |
