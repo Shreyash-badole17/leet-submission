@@ -156,6 +156,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Shreyash-badole17/leet-submission/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Shreyash-badole17/leet-submission/tree/master/0410-split-array-largest-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/Shreyash-badole17/leet-submission/tree/master/2032-largest-odd-number-in-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Shreyash-badole17/leet-submission/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -177,6 +178,7 @@
 | [0139-word-break](https://github.com/Shreyash-badole17/leet-submission/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Shreyash-badole17/leet-submission/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shreyash-badole17/leet-submission/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/Shreyash-badole17/leet-submission/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Shreyash-badole17/leet-submission/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Shreyash-badole17/leet-submission/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Shreyash-badole17/leet-submission/tree/master/1078-remove-outermost-parentheses) |
@@ -189,6 +191,7 @@
 | [0020-valid-parentheses](https://github.com/Shreyash-badole17/leet-submission/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shreyash-badole17/leet-submission/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Shreyash-badole17/leet-submission/tree/master/0225-implement-stack-using-queues) |
+| [0402-remove-k-digits](https://github.com/Shreyash-badole17/leet-submission/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Shreyash-badole17/leet-submission/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Shreyash-badole17/leet-submission/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/Shreyash-badole17/leet-submission/tree/master/1078-remove-outermost-parentheses) |
@@ -298,5 +301,6 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shreyash-badole17/leet-submission/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Shreyash-badole17/leet-submission/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Shreyash-badole17/leet-submission/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
