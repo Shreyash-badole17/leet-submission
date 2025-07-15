@@ -1,5 +1,6 @@
 class Solution {
     public int maximalRectangle(char[][] matrix) {
+        if(matrix.length==0) return 0;
         int[] heights = new int[matrix[0].length];
         int maxarea=0;
         for(int i=0;i<matrix.length;i++){
@@ -14,7 +15,7 @@ class Solution {
     }
     int largestrectanglearea(int[] heights){
         int n= heights.length;
-        Stack<Integer> st = new Stack<>();
+        Deque<Integer> st = new ArrayDeque<>();
         int max=0;
         for(int i=0;i<=n;i++){
             int currH=(i==n)?0:heights[i]; 
