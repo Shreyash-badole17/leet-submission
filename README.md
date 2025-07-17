@@ -46,6 +46,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/Shreyash-badole17/leet-submission/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shreyash-badole17/leet-submission/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Shreyash-badole17/leet-submission/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Shreyash-badole17/leet-submission/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0131-palindrome-partitioning](https://github.com/Shreyash-badole17/leet-submission/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Shreyash-badole17/leet-submission/tree/master/0139-word-break) |
 | [0410-split-array-largest-sum](https://github.com/Shreyash-badole17/leet-submission/tree/master/0410-split-array-largest-sum) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Shreyash-badole17/leet-submission/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Hash Table
 |  |
 | ------- |
