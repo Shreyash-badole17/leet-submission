@@ -86,6 +86,7 @@
 | [0169-majority-element](https://github.com/Shreyash-badole17/leet-submission/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Shreyash-badole17/leet-submission/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shreyash-badole17/leet-submission/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shreyash-badole17/leet-submission/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Shreyash-badole17/leet-submission/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Shreyash-badole17/leet-submission/tree/master/0496-next-greater-element-i) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Shreyash-badole17/leet-submission/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -191,6 +192,7 @@
 | [0205-isomorphic-strings](https://github.com/Shreyash-badole17/leet-submission/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shreyash-badole17/leet-submission/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Shreyash-badole17/leet-submission/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shreyash-badole17/leet-submission/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Shreyash-badole17/leet-submission/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Shreyash-badole17/leet-submission/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Shreyash-badole17/leet-submission/tree/master/1078-remove-outermost-parentheses) |
@@ -329,6 +331,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreyash-badole17/leet-submission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Shreyash-badole17/leet-submission/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shreyash-badole17/leet-submission/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shreyash-badole17/leet-submission/tree/master/1046-max-consecutive-ones-iii) |
 ## Monotonic Queue
 |  |
