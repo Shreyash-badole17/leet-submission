@@ -41,6 +41,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreyash-badole17/leet-submission/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/Shreyash-badole17/leet-submission/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Shreyash-badole17/leet-submission/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/Shreyash-badole17/leet-submission/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Shreyash-badole17/leet-submission/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shreyash-badole17/leet-submission/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/Shreyash-badole17/leet-submission/tree/master/2047-find-a-peak-element-ii) |
@@ -158,6 +159,7 @@
 | [0410-split-array-largest-sum](https://github.com/Shreyash-badole17/leet-submission/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreyash-badole17/leet-submission/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Shreyash-badole17/leet-submission/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/Shreyash-badole17/leet-submission/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Shreyash-badole17/leet-submission/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shreyash-badole17/leet-submission/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/Shreyash-badole17/leet-submission/tree/master/2047-find-a-peak-element-ii) |
@@ -172,6 +174,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Shreyash-badole17/leet-submission/tree/master/0410-split-array-largest-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/Shreyash-badole17/leet-submission/tree/master/1046-max-consecutive-ones-iii) |
 ## String
 |  |
 | ------- |
@@ -326,6 +329,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreyash-badole17/leet-submission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Shreyash-badole17/leet-submission/tree/master/0239-sliding-window-maximum) |
+| [1046-max-consecutive-ones-iii](https://github.com/Shreyash-badole17/leet-submission/tree/master/1046-max-consecutive-ones-iii) |
 ## Monotonic Queue
 |  |
 | ------- |
