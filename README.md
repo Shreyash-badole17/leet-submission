@@ -41,6 +41,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreyash-badole17/leet-submission/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/Shreyash-badole17/leet-submission/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Shreyash-badole17/leet-submission/tree/master/0792-binary-search) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Shreyash-badole17/leet-submission/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shreyash-badole17/leet-submission/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shreyash-badole17/leet-submission/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Shreyash-badole17/leet-submission/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -91,6 +92,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Shreyash-badole17/leet-submission/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Shreyash-badole17/leet-submission/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Shreyash-badole17/leet-submission/tree/master/0496-next-greater-element-i) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Shreyash-badole17/leet-submission/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shreyash-badole17/leet-submission/tree/master/1370-count-number-of-nice-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Shreyash-badole17/leet-submission/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Sorting
@@ -109,6 +111,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Shreyash-badole17/leet-submission/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Shreyash-badole17/leet-submission/tree/master/0451-sort-characters-by-frequency) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Shreyash-badole17/leet-submission/tree/master/1034-subarrays-with-k-different-integers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Shreyash-badole17/leet-submission/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
@@ -338,6 +341,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreyash-badole17/leet-submission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Shreyash-badole17/leet-submission/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shreyash-badole17/leet-submission/tree/master/0424-longest-repeating-character-replacement) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Shreyash-badole17/leet-submission/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shreyash-badole17/leet-submission/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shreyash-badole17/leet-submission/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Shreyash-badole17/leet-submission/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
