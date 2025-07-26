@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreyash-badole17/leet-submission/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Shreyash-badole17/leet-submission/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Shreyash-badole17/leet-submission/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Shreyash-badole17/leet-submission/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shreyash-badole17/leet-submission/tree/master/0169-majority-element) |
@@ -242,6 +243,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shreyash-badole17/leet-submission/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Shreyash-badole17/leet-submission/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Shreyash-badole17/leet-submission/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
@@ -253,6 +255,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shreyash-badole17/leet-submission/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shreyash-badole17/leet-submission/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/Shreyash-badole17/leet-submission/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shreyash-badole17/leet-submission/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Shreyash-badole17/leet-submission/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shreyash-badole17/leet-submission/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -278,6 +281,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shreyash-badole17/leet-submission/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Shreyash-badole17/leet-submission/tree/master/0148-sort-list) |
 ## Backtracking
 |  |
