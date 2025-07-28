@@ -41,6 +41,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreyash-badole17/leet-submission/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/Shreyash-badole17/leet-submission/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Shreyash-badole17/leet-submission/tree/master/0792-binary-search) |
+| [0876-hand-of-straights](https://github.com/Shreyash-badole17/leet-submission/tree/master/0876-hand-of-straights) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Shreyash-badole17/leet-submission/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shreyash-badole17/leet-submission/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shreyash-badole17/leet-submission/tree/master/1370-count-number-of-nice-subarrays) |
@@ -94,6 +95,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Shreyash-badole17/leet-submission/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Shreyash-badole17/leet-submission/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Shreyash-badole17/leet-submission/tree/master/0496-next-greater-element-i) |
+| [0876-hand-of-straights](https://github.com/Shreyash-badole17/leet-submission/tree/master/0876-hand-of-straights) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Shreyash-badole17/leet-submission/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shreyash-badole17/leet-submission/tree/master/1370-count-number-of-nice-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Shreyash-badole17/leet-submission/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -107,6 +109,7 @@
 | [0169-majority-element](https://github.com/Shreyash-badole17/leet-submission/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shreyash-badole17/leet-submission/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Shreyash-badole17/leet-submission/tree/master/0451-sort-characters-by-frequency) |
+| [0876-hand-of-straights](https://github.com/Shreyash-badole17/leet-submission/tree/master/0876-hand-of-straights) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Shreyash-badole17/leet-submission/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Counting
 |  |
@@ -177,6 +180,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/Shreyash-badole17/leet-submission/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Shreyash-badole17/leet-submission/tree/master/0410-split-array-largest-sum) |
+| [0876-hand-of-straights](https://github.com/Shreyash-badole17/leet-submission/tree/master/0876-hand-of-straights) |
 | [2032-largest-odd-number-in-string](https://github.com/Shreyash-badole17/leet-submission/tree/master/2032-largest-odd-number-in-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Shreyash-badole17/leet-submission/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Prefix Sum
