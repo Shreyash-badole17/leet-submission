@@ -43,6 +43,7 @@
 | [0735-asteroid-collision](https://github.com/Shreyash-badole17/leet-submission/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Shreyash-badole17/leet-submission/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/Shreyash-badole17/leet-submission/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/Shreyash-badole17/leet-submission/tree/master/0890-lemonade-change) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Shreyash-badole17/leet-submission/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shreyash-badole17/leet-submission/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shreyash-badole17/leet-submission/tree/master/1370-count-number-of-nice-subarrays) |
@@ -188,6 +189,7 @@
 | [0410-split-array-largest-sum](https://github.com/Shreyash-badole17/leet-submission/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Shreyash-badole17/leet-submission/tree/master/0455-assign-cookies) |
 | [0876-hand-of-straights](https://github.com/Shreyash-badole17/leet-submission/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/Shreyash-badole17/leet-submission/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/Shreyash-badole17/leet-submission/tree/master/2032-largest-odd-number-in-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Shreyash-badole17/leet-submission/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Prefix Sum
