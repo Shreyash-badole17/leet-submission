@@ -27,6 +27,7 @@
 | [0088-merge-sorted-array](https://github.com/Shreyash-badole17/leet-submission/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Shreyash-badole17/leet-submission/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Shreyash-badole17/leet-submission/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Shreyash-badole17/leet-submission/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Shreyash-badole17/leet-submission/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Shreyash-badole17/leet-submission/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shreyash-badole17/leet-submission/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -188,6 +189,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Shreyash-badole17/leet-submission/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Shreyash-badole17/leet-submission/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Shreyash-badole17/leet-submission/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Shreyash-badole17/leet-submission/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Shreyash-badole17/leet-submission/tree/master/0455-assign-cookies) |
