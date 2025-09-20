@@ -402,5 +402,6 @@
 ## Database
 |  |
 | ------- |
+| [1153-product-sales-analysis-i](https://github.com/Shreyash-badole17/leet-submission/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/Shreyash-badole17/leet-submission/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
