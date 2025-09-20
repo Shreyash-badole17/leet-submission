@@ -399,4 +399,8 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyash-badole17/leet-submission/tree/master/0144-binary-tree-preorder-traversal) |
+## Database
+|  |
+| ------- |
+| [1258-article-views-i](https://github.com/Shreyash-badole17/leet-submission/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
