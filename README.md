@@ -108,6 +108,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/Shreyash-badole17/leet-submission/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shreyash-badole17/leet-submission/tree/master/1370-count-number-of-nice-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Shreyash-badole17/leet-submission/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shreyash-badole17/leet-submission/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Shreyash-badole17/leet-submission/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Shreyash-badole17/leet-submission/tree/master/1034-subarrays-with-k-different-integers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Shreyash-badole17/leet-submission/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shreyash-badole17/leet-submission/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -233,6 +235,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Shreyash-badole17/leet-submission/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Shreyash-badole17/leet-submission/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Shreyash-badole17/leet-submission/tree/master/2032-largest-odd-number-in-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shreyash-badole17/leet-submission/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
